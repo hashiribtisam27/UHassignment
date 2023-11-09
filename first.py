@@ -7,7 +7,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
 
 # explorng the data
-df = pd.read_csv(r"C:\Users\HP\Desktop\ny.csv")
+df = pd.read_csv(r"C:\Users\DELL\Desktop\ny.csv")
 '''data read from csv'''
 df.shape
 df.head(5)
